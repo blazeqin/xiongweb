@@ -35,13 +35,15 @@ Currently, I am supervising two PhD candidates in [HZAU](www.hzau.edu.cn):
 
 <br/>
 
-Miss **Xiaoxiao Wang**
+ _Miss_ **Xiaoxiao Wang**
 
-E-mail: wangxx@webmail.hzau.edu.cn
+ E-mail: wangxx@webmail.hzau.edu.cn
 
-Office: 403 Crops Building
+ Office: 403 Crops Building
 
-Research Interests: Coordination of morph-anatomy and functions in crops under drought conditions
+ Research Interests: Coordination of morph-anatomy and functions in crops under drought conditions
+
+<br/>
 
 _**Publications**_
 
@@ -49,21 +51,22 @@ _**Publications**_
 
 **Xiaoxiao Wang**<sup>#</sup>, Tingting Du<sup>#</sup>, Jianliang Huang, Shaobing Peng and **Dongliang Xiong**.  [Leaf hydraulic vulnerability triggers the decline in stomatal and mesophyll conductance during drought in rice (_Oryza sativa_)](https://doi.org/10.1093/jxb/ery188).  Journal of Experimental Botany (online) (<sup>#</sup>co-first authors)
 
-
+---------
 
 <img align="left" width="250" height="350" src="/img/tingting.png">
 
 <br/>
 
-Miss **Tingting Du**
+ _Miss_ **Tingting Du**
 
-E-mail: tingtingdu@webmail.hzau.edu.cn 
+ E-mail: tingtingdu@webmail.hzau.edu.cn 
 
-Office: 404 Crops Building
+ Office: 404 Crops Building
 
-Research Interests: nocturnal transpiration;  efficiency vs safety in leaf level
+ Research Interests: nocturnal transpiration;  efficiency vs safety in leaf level
 
- 
+<br/> <br/> 
+
 _**Publications**_
 
 Xiaoxiao Wang<sup>#</sup>, **Tingting Du**<sup>#</sup>, Jianliang Huang, Shaobing Peng and **Dongliang Xiong**.  [Leaf hydraulic vulnerability triggers the decline in stomatal and mesophyll conductance during drought in rice (_Oryza sativa_)](https://doi.org/10.1093/jxb/ery188).  Journal of Experimental Botany (online) (<sup>#</sup>co-first authors)
