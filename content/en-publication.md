@@ -3,13 +3,12 @@ title: Publications
 slug: "en/publication"
 ---
 
-## Pubulication list {#publication}
 
-**************
+*******************************************************************************************
 
 My [**Google Scholar**](https://scholar.google.com.hk/citations?user=Bp6KF_AAAAAJ&hl=zh-CN), [**Web of Science**](http://www.researcherid.com/rid/P-6618-2014), [**Scopus**](https://www.scopus.com/authid/detail.uri?authorId=55995140300&origin=AuthorEval) & [**ORCID**](http://orcid.org/0000-0002-6332-2627)
 
-**************
+*******************************************************************************************
 
 
 ### 2018
