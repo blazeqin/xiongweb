@@ -7,8 +7,4 @@ My daughter, Leah, is a hundred days old today. Coincidentally, my new website w
 
 Then I just put a picture of Leah here as a marker.
 
-<center> 
-
-<img src="/img/100.png" width="300">
-
-</center>
+<center> ![](/img/100.png) </center>
