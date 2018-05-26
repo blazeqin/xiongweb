@@ -13,7 +13,7 @@ Twitter: @Apricot0627
 
 Current Address: Department of Plant Sciences, University of California, Davis
 
-<span style = "color:red"> _ **Please feel free to contact us if you are interested in collaborating.** _ </span>
+<span style = "color:red"> _**Please feel free to contact me if you are interested in collaborating.**_ </span>
 
 ### Education and Work experience
 
@@ -27,7 +27,7 @@ Current Address: Department of Plant Sciences, University of California, Davis
 
 2007.09-2016.06: BS, MS, and PhD degrees, Huazhong Agricultural University
 
-### postgraduate (student)
+### Postgraduate (student)
 
 Currently, I am supervising two PhD candidates in [HZAU](www.hzau.edu.cn):
 
