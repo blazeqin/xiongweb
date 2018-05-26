@@ -1,9 +1,28 @@
 ---
 title: About Me
-slug: "en/about"
+date: 2018-05-26T13:09:13-06:00
 ---
 A Postdoctoral Fellow in Tom Buckley's lab, UC Davis. 
 
-My major is Plant Eco-physiology.
+## Contact
 
-I will update, whenever I have time
+E-mail: dlxiong@mail.hzau.edu.cn
+
+Twitter: @Apricot0627
+
+Current Address: Department of Plant Sciences, University of California, Davis
+
+ 
+
+## Education and Work experience
+
+2017.12-present:Post-doc, University of California, Davis
+
+2017.10-2017.12：Post-doc, The University of Sydney
+
+2016.12-2017.09：RA, Huazhong Agricultural University
+
+2014.11-2016.11: Ph.D./Visiting researcher, Universitat de les Illes Balears, Spain
+
+2007.09-2016.06: BS, MS, and PhD degrees, Huazhong Agricultural University
+
