@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1527370303881.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "E14B32A5",
+    "lastKnownWriteTime" : 1527356681,
+    "last_content_update" : 1527356681,
+    "path" : "D:/Personal/My_web/xiongweb/config.yaml",
+    "project_path" : "config.yaml",
+    "properties" : {
+        "cursorPosition" : "16,5",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "yaml"
+}
