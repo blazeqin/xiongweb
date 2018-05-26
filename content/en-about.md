@@ -3,12 +3,14 @@ title: About Me
 slug: "en/about"
 ---
 
-A Postdoctoral Fellow in Tom Buckley's lab, UC Davis. 
+A Postdoctoral Fellow in [Tom Buckley's lab](https://buckleylab.ucdavis.edu/), UC Davis. 
 
 ### Contact
 
 E-mail: dlxiong@mail.hzau.edu.cn
+
 Twitter: @Apricot0627
+
 Current Address: Department of Plant Sciences, University of California, Davis
 
 <span style = "color:red"> _**Please feel free to contact me if you are interested in collaborating.**_ </span>
@@ -16,9 +18,13 @@ Current Address: Department of Plant Sciences, University of California, Davis
 ### Education and Work experience
 
 2017.12-present:Post-doc, University of California, Davis
+
 2017.10-2017.12：Post-doc, The University of Sydney
+
 2016.12-2017.09：RA, Huazhong Agricultural University
+
 2014.11-2016.11: Ph.D./Visiting researcher, Universitat de les Illes Balears, Spain
+
 2007.09-2016.06: BS, MS, and PhD degrees, Huazhong Agricultural University
 
 ### Postgraduate (student)
@@ -32,10 +38,12 @@ Currently, I am supervising two PhD candidates in [HZAU](www.hzau.edu.cn):
  _Miss_ **Xiaoxiao Wang**
 
  E-mail: wangxx@webmail.hzau.edu.cn
+ 
  Office: 403 Crops Building
+ 
  Research Interests: Coordination of morph-anatomy and functions in crops under drought conditions
 
-<br/><br/>
+<br/>
 
 _**Publications**_
 
@@ -52,10 +60,12 @@ _**Publications**_
  _Miss_ **Tingting Du**
 
  E-mail: tingtingdu@webmail.hzau.edu.cn 
+ 
  Office: 404 Crops Building
+ 
  Research Interests: nocturnal transpiration;  efficiency vs safety in leaf level
 
-<br/> <br/> <br/>
+<br/> <br/>
 
 _**Publications**_
 
