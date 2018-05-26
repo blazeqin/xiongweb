@@ -5,19 +5,19 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "4158319556",
+    "hash" : "1358347321",
     "id" : "4E7708BB",
-    "lastKnownWriteTime" : 1527366603,
-    "last_content_update" : 1527366603145,
-    "path" : "D:/Personal/My_web/xiongweb/content/cn/2018-05-26.Rmd",
-    "project_path" : "content/cn/2018-05-26.Rmd",
+    "lastKnownWriteTime" : 1527367324,
+    "last_content_update" : 1527367324707,
+    "path" : "D:/Personal/My_web/xiongweb/content/cn/2018-05-26.md",
+    "project_path" : "content/cn/2018-05-26.md",
     "properties" : {
-        "cursorPosition" : "6,97",
+        "cursorPosition" : "8,42",
         "scrollLine" : "0",
         "tempName" : "Untitled1"
     },
     "relative_order" : 2,
     "source_on_save" : false,
     "source_window" : "",
-    "type" : "r_markdown"
+    "type" : "markdown"
 }
