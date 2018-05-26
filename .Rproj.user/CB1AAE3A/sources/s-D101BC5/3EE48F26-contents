@@ -31,7 +31,7 @@ Current Address: Department of Plant Sciences, University of California, Davis
 
 Currently, I am supervising two PhD candidates in [HZAU](www.hzau.edu.cn):
 
-<img align="left" width="200" height="350" src="/img/xiaoxiao.png">
+<img align="left" width="250" height="350" src="/img/xiaoxiao.png">
 
 <br/>
 
@@ -51,7 +51,7 @@ _**Publications**_
 
 
 
-<img align="left" width="200" height="350" src="/img/tingting.png">
+<img align="left" width="250" height="350" src="/img/tingting.png">
 
 <br/>
 
