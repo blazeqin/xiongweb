@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1527352159617.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "473063749",
+    "id" : "78A8DEE",
+    "lastKnownWriteTime" : 1527316339,
+    "last_content_update" : 1527316339,
+    "path" : "D:/Personal/My_web/xiongweb/config.toml",
+    "project_path" : "config.toml",
+    "properties" : {
+        "cursorPosition" : "22,50",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "toml"
+}
