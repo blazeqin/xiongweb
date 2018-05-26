@@ -5,13 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "4068778115",
+    "hash" : "2943183812",
     "id" : "36E471F7",
-    "lastKnownWriteTime" : 1527357665,
-    "last_content_update" : 1527357665,
+    "lastKnownWriteTime" : 1527368455,
+    "last_content_update" : 1527368455244,
     "path" : "D:/Personal/My_web/xiongweb/content/en/2018-05-26.md",
     "project_path" : "content/en/2018-05-26.md",
     "properties" : {
+        "cursorPosition" : "28,0",
+        "scrollLine" : "3"
     },
     "relative_order" : 4,
     "source_on_save" : false,
