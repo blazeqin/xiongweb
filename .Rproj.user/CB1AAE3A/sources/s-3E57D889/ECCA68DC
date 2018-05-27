@@ -5,15 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "627543687",
+    "hash" : "438591084",
     "id" : "ECCA68DC",
-    "lastKnownWriteTime" : 1527462264,
-    "last_content_update" : 1527462264586,
+    "lastKnownWriteTime" : 1527462530,
+    "last_content_update" : 1527462530709,
     "path" : "D:/Personal/My_web/xiongweb/themes/hugo-lithium/layouts/partials/article_meta.html",
     "project_path" : "themes/hugo-lithium/layouts/partials/article_meta.html",
     "properties" : {
-        "cursorPosition" : "25,9",
-        "scrollLine" : "5"
+        "cursorPosition" : "12,13",
+        "scrollLine" : "0"
     },
     "relative_order" : 4,
     "source_on_save" : false,
