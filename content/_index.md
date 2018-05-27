@@ -11,11 +11,7 @@ I study the complex interactions between plants and their environment. Specifica
 Now, I am a post-doc in [Tom Buckley's lab](https://buckleylab.ucdavis.edu/), UC Davis. 
 
 
+<td align="right" style="width:40; height:auto;">
+<script type="text/javascript" id="clstr_globe" src="//cdn.clustrmaps.com/globe.js?d=h3LHvXET5dit89LK07rlQSAN4UgPTmnOucWO5WUbSpg"> </script>
 
-
-<script 
-
-type="text/javascript" id="clstr_globe" src="//cdn.clustrmaps.com/globe.js?d=h3LHvXET5dit89LK07rlQSAN4UgPTmnOucWO5WUbSpg" width="40" height="40">
-
-</script>
-
+ </td>
