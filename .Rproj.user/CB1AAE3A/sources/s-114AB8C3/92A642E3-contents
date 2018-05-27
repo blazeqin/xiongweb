@@ -4,20 +4,18 @@ date: '2018-05-26'
 disable_mathjax: true
 disable_highlight: true
 ---
-<br/> 
-
 
 <br/>
 
-**I study the complex interactions between plants and their environment. Specifically, I focus on physiological mechanisms that carbon gain processes cope water, nutrients and temperature stresses.** 
+<span style = "color:blue"> **I study the complex interactions between plants and their environment. Specifically, I focus on physiological mechanisms that carbon gain processes cope water, nutrients and temperature stresses.** </span>
 
-**Now, I am a post-doc in [Tom Buckley's lab](https://buckleylab.ucdavis.edu/), UC Davis.** 
+<span style = "color:blue"> **Now, I am a post-doc in [Tom Buckley's lab](https://buckleylab.ucdavis.edu/), UC Davis.** </span>
 
 <br/> 
 
 <center> 
 
-<img src="/img/veinlarge.png" width="700">
+<img src="/img/veinlarge.png" width="500">
 
 </center>
 
