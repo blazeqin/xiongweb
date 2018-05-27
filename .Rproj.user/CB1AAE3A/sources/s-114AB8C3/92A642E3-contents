@@ -12,6 +12,8 @@ disable_highlight: true
 
 <br/> <br/> <br/>
 
+<div class="widgetContainer" style="width:200px; margin-left: 30px;">
+ 
+<script type="text/javascript" id="clstr_globe" src="//cdn.clustrmaps.com/globe.js?d=h3LHvXET5dit89LK07rlQSAN4UgPTmnOucWO5WUbSpg"> </script>
 
-<script type="text/javascript" id="clstr_globe" src="//cdn.clustrmaps.com/globe.js?d=h3LHvXET5dit89LK07rlQSAN4UgPTmnOucWO5WUbSpg" style="width:40; height:auto;"> </script>
-
+</div>
