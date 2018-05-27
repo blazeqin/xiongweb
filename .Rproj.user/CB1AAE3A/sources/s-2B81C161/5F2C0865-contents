@@ -24,7 +24,7 @@ disable_highlight: true
 
 <br/> <br/>
 
-<div class="widgetContainer" style="width:65px;margin-right: 300px;">
+<div class="widgetContainer" style="width:65px; margin-left: 300px;">
  
 <script type="text/javascript" id="clstr_globe" src="//cdn.clustrmaps.com/globe.js?d=h3LHvXET5dit89LK07rlQSAN4UgPTmnOucWO5WUbSpg"> </script>
 
