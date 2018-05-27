@@ -5,7 +5,7 @@ slug: "en/about"
 
 A Postdoctoral Fellow in [Tom Buckley's lab](https://buckleylab.ucdavis.edu/), UC Davis. 
 
-### Contact
+### <span style = "color:blue"> Contact Information </span>
 
 E-mail: dlxiong@mail.hzau.edu.cn / dlxiong@ucdavis.edu
 
@@ -15,7 +15,7 @@ Current Address: Department of Plant Sciences, University of California, Davis, 
 
 <span style = "color:red"> _**Please feel free to contact me if you are interested in collaborating.**_ </span>
 
-### Education and Work experience
+### <span style = "color:blue"> Education and Work experience </span>
 
 2017.12-present:Post-doc, University of California, Davis
 
@@ -27,7 +27,7 @@ Current Address: Department of Plant Sciences, University of California, Davis, 
 
 2007.09-2016.06: BS and PhD degrees, Huazhong Agricultural University
 
-### Postgraduate students
+### <span style = "color:blue"> Postgraduate students </span>
 
 Currently, I am supervising two PhD candidates in [HZAU](www.hzau.edu.cn):
 
