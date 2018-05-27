@@ -4,15 +4,31 @@ date: '2018-05-26'
 disable_mathjax: true
 disable_highlight: true
 ---
-<br/> <br/>
+<br/> 
+
+<center> 
+
+<img src="/img/veinlarge.png" width="700">
+
+</center>
+
+<br/>
 
 **I study the complex interactions between plants and their environment. Specifically, I focus on physiological mechanisms that carbon gain processes cope water, nutrients and temperature stresses.** 
 
 **Now, I am a post-doc in [Tom Buckley's lab](https://buckleylab.ucdavis.edu/), UC Davis.** 
 
-<br/> <br/> <br/>
+<br/> 
 
-<div class="widgetContainer" style="width:200px; margin-left: 30px;">
+<center> 
+
+<img src="/img/veinsmall.png" width="700">
+
+</center>
+
+<br/> <br/>
+
+<div class="widgetContainer" style="width:150px; margin-right: 40px;">
  
 <script type="text/javascript" id="clstr_globe" src="//cdn.clustrmaps.com/globe.js?d=h3LHvXET5dit89LK07rlQSAN4UgPTmnOucWO5WUbSpg"> </script>
 
