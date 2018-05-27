@@ -7,7 +7,6 @@ disable_highlight: true
 
 <br/>
 <span style = "color:blue"> Currently, I am a post-doc in [Dr. Tom Buckley's lab](https://buckleylab.ucdavis.edu/), UC Davis. </span>
-
 <span style = "color:blue"> I study the complex interactions between plants and their environment. Specifically, I focus on physiological mechanisms that carbon gain processes cope water, nutrients and temperature stresses. </span>
 
 
@@ -25,7 +24,7 @@ disable_highlight: true
 
 <br/> <br/>
 
-<div class="widgetContainer" style="width:60px;">
+<div class="widgetContainer" style="width:65px;margin-right: 300px;">
  
 <script type="text/javascript" id="clstr_globe" src="//cdn.clustrmaps.com/globe.js?d=h3LHvXET5dit89LK07rlQSAN4UgPTmnOucWO5WUbSpg"> </script>
 
