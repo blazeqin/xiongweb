@@ -15,7 +15,7 @@ Now, I am a post-doc in [Tom Buckley's lab](https://buckleylab.ucdavis.edu/), UC
 
 <script 
 
-type="text/javascript" id="clstr_globe" src="//cdn.clustrmaps.com/globe.js?d=h3LHvXET5dit89LK07rlQSAN4UgPTmnOucWO5WUbSpg" width="80">
+type="text/javascript" id="clstr_globe" src="//cdn.clustrmaps.com/globe.js?d=h3LHvXET5dit89LK07rlQSAN4UgPTmnOucWO5WUbSpg" width="40" height="40">
 
 </script>
 
