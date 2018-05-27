@@ -6,11 +6,6 @@ disable_highlight: true
 ---
 <br/> 
 
-<center> 
-
-<img src="/img/veinlarge.png" width="700">
-
-</center>
 
 <br/>
 
@@ -22,13 +17,13 @@ disable_highlight: true
 
 <center> 
 
-<img src="/img/veinsmall.png" width="700">
+<img src="/img/veinlarge.png" width="700">
 
 </center>
 
 <br/> <br/>
 
-<div class="widgetContainer" style="width:150px; margin-right: 40px;">
+<div class="widgetContainer" style="width:150px;">
  
 <script type="text/javascript" id="clstr_globe" src="//cdn.clustrmaps.com/globe.js?d=h3LHvXET5dit89LK07rlQSAN4UgPTmnOucWO5WUbSpg"> </script>
 
