@@ -12,7 +12,11 @@
         </ul> 
       </footer>
 
-    </div>
+     </div>
+    {{ range .Site.Params.customJS }}
+    <script async src="{{ . | absURL }}"></script>
+    {{ end }}
+    {{ partial "fix404" . }}
     {{ partial "footer_highlightjs" . }}
     {{ partial "footer_mathjax" . }}
     {{ template "_internal/google_analytics.html" . }}
