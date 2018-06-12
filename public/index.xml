@@ -1,15 +1,42 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Dongliang Xiong | 熊栋梁 </title>
+    <title>Homepage on Dongliang Xiong | 熊栋梁 </title>
     <link>https://dlxiong.com/</link>
-    <description>Recent content on Dongliang Xiong | 熊栋梁 </description>
+    <description>Recent content in Homepage on Dongliang Xiong | 熊栋梁 </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 26 May 2018 13:09:13 -0600</lastBuildDate>
+    <lastBuildDate>Sat, 26 May 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://dlxiong.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>科研那点破事</title>
+      <link>https://dlxiong.com/cn/2018/06/11/%E7%A7%91%E7%A0%94%E9%82%A3%E7%82%B9%E7%A0%B4%E4%BA%8B/</link>
+      <pubDate>Mon, 11 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://dlxiong.com/cn/2018/06/11/%E7%A7%91%E7%A0%94%E9%82%A3%E7%82%B9%E7%A0%B4%E4%BA%8B/</guid>
+      <description>套 取 下午,同办公室的西班牙裔A君哭丧着脸说：“没想到S是这么不要脸的人。”。详细问了缘由，原来她刚收到老板转抄的邮件。本系的S教授手下的一个</description>
+    </item>
+    
+    <item>
+      <title>回归学术</title>
+      <link>https://dlxiong.com/cn/2018/06/01/%E5%9B%9E%E5%BD%92%E5%AD%A6%E6%9C%AF/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://dlxiong.com/cn/2018/06/01/%E5%9B%9E%E5%BD%92%E5%AD%A6%E6%9C%AF/</guid>
+      <description>陪女儿玩完，无意间打开谷歌学术，其首页“最新论文推荐”的第一条有点似曾相识。仔细看一作者正是Cylir在2015年指导的那名法国学生，文章发</description>
+    </item>
+    
+    <item>
+      <title>论文修改之困</title>
+      <link>https://dlxiong.com/cn/2018/05/30/%E8%AE%BA%E6%96%87%E4%BF%AE%E6%94%B9%E4%B9%8B%E5%9B%B0/</link>
+      <pubDate>Wed, 30 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://dlxiong.com/cn/2018/05/30/%E8%AE%BA%E6%96%87%E4%BF%AE%E6%94%B9%E4%B9%8B%E5%9B%B0/</guid>
+      <description>记得2014年刚到西班牙不久,跟Cyril聊过博士毕业后产出下降问题。当时我非常难以理解他的状态，而他说，等你毕业了就知道了。我自己情况现在</description>
+    </item>
     
     <item>
       <title>Leah is 100 days old</title>
@@ -27,16 +54,16 @@ Then I just put a picture of Leah here as a marker.</description>
       <pubDate>Sat, 26 May 2018 00:00:00 +0000</pubDate>
       
       <guid>https://dlxiong.com/cn/2018/05/26/%E5%A5%B3%E5%84%BF%E4%B8%80%E7%99%BE%E5%A4%A9%E4%BA%86/</guid>
-      <description>这是我第一次尝试静态站，而网站上线的第一天竟然巧合的是女儿出生的第100天。很遗憾这个博文，很显然是为了给网站放上一个测试页面。现在实在还有</description>
+      <description>这是我第一次尝试静态站。巧合的是网站上线的第一天也是女儿出生的第100天。只是很遗憾这个博文，是为了给网站放上一个测试页面。现在实在还有太多</description>
     </item>
     
     <item>
-      <title>女儿一百天了</title>
-      <link>https://dlxiong.com/cn/2018/05/26/%E5%A5%B3%E5%84%BF%E4%B8%80%E7%99%BE%E5%A4%A9%E4%BA%86/</link>
-      <pubDate>Sat, 26 May 2018 00:00:00 +0000</pubDate>
+      <title>学生最新JXB文章</title>
+      <link>https://dlxiong.com/cn/2018/05/21/%E5%AD%A6%E7%94%9F%E6%9C%80%E6%96%B0jxb%E6%96%87%E7%AB%A0/</link>
+      <pubDate>Mon, 21 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://dlxiong.com/cn/2018/05/26/%E5%A5%B3%E5%84%BF%E4%B8%80%E7%99%BE%E5%A4%A9%E4%BA%86/</guid>
-      <description>这是我第一次尝试静态站。巧合的是网站上线的第一天也是女儿出生的第100天。只是很遗憾这个博文，是为了给网站放上一个测试页面。现在实在还有太多</description>
+      <guid>https://dlxiong.com/cn/2018/05/21/%E5%AD%A6%E7%94%9F%E6%9C%80%E6%96%B0jxb%E6%96%87%E7%AB%A0/</guid>
+      <description>注：文章是5月14日接受的,5月18日在线发表,5月19日,韩经理给微信我留言,希望我们能写个稿子介绍文章。虽然原稿只有一个，各个公众平台和</description>
     </item>
     
     <item>
@@ -45,16 +72,15 @@ Then I just put a picture of Leah here as a marker.</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://dlxiong.com/en/about/</guid>
-      <description>A Postdoctoral Fellow in Tom Buckley&amp;rsquo;s lab, UC Davis.
-Contact E-mail: dlxiong@mail.hzau.edu.cn
-Twitter: @Apricot0627
-Current Address: Department of Plant Sciences, University of California, Davis
+      <description>I am Dongliang Xiong, a Postdoctoral Fellow in Tom Buckley&amp;rsquo;s lab, UC Davis.
+Contact Information  E-mail: dlxiong@mail.hzau.edu.cn / dlxiong@ucdavis.edu
+Twitter: Apricot0627
+Current Address: Department of Plant Sciences, University of California, Davis, CA 95616, USA
 Please feel free to contact me if you are interested in collaborating. 
-Education and Work experience 2017.12-present:Post-doc, University of California, Davis
+Education and Work experience  2017.12-present：Post-doc, University of California, Davis
 2017.10-2017.12：Post-doc, The University of Sydney
 2016.12-2017.09：Post-doc, Huazhong Agricultural University
-2014.11-2016.11: Ph.D./Visiting researcher, Universitat de les Illes Balears, Spain
-2007.09-2016.06: BS and PhD degrees, Huazhong Agricultural University</description>
+2014.11-2016.11：Ph.D./Visiting researcher, Universitat de les Illes Balears, Spain</description>
     </item>
     
     <item>
@@ -65,7 +91,7 @@ Education and Work experience 2017.12-present:Post-doc, University of California
       <guid>https://dlxiong.com/en/publication/</guid>
       <description>My Google Scholar, Web of Science, Scopus &amp;amp; ORCID
 2018  12 Xiaoxiao Wang#, Tingting Du#, Jianliang Huang, Shaobing Peng and Dongliang Xiong. Leaf hydraulic vulnerability triggers the decline in stomatal and mesophyll conductance during drought in rice (Oryza sativa). Journal of Experimental Botany (online) (#co-first authors)
-11 Xiaoxiao Wang, Wenchang Wang, Jianliang Huang, Shaobing Peng &amp;amp; Dongliang Xiong. (2018) Diffusional conductance to CO~2~ is the key limitation to photosynthesis in salt-stressed leaves of rice (Oryza sativa) Physiologia Plantarum.</description>
+11 Xiaoxiao Wang, Wenchang Wang, Jianliang Huang, Shaobing Peng &amp;amp; Dongliang Xiong. (2018) Diffusional conductance to CO2 is the key limitation to photosynthesis in salt-stressed leaves of rice (Oryza sativa) Physiologia Plantarum.</description>
     </item>
     
     <item>
