@@ -5,9 +5,9 @@ slug: "en/research"
 
 >   
 
-## <span style = "color:blue"> Biophysical mechanisms of $CO_{2}$ and water transport inside leaf </span>
+## <span style = "color:blue"> Biophysical mechanisms of CO<sub>2</sub> and water transport inside leaf </span>
 
-I have been working on this topic since 2011. Basically, I am trying to reveal the biophysical processes (as well as their coordination) of water and $CO_{2}$ movement inside leaves. I also published several papers(.i.e [JXB_2015](https://doi.org/10.1093/jxb/eru434), [New Phytologist_2017](https://doi.org/10.1111/nph.14186), [PCE_2018](https://doi.org/10.1111/pce.13111), [JXB_2018](https://doi.org/10.1093/jxb/ery188)) in this field. 
+I have been working on this topic since 2011. Basically, I am trying to reveal the biophysical processes (as well as their coordination) of water and CO<sub>2</sub> movement inside leaves. I also published several papers(.i.e [JXB_2015](https://doi.org/10.1093/jxb/eru434), [New Phytologist_2017](https://doi.org/10.1111/nph.14186), [PCE_2018](https://doi.org/10.1111/pce.13111), [JXB_2018](https://doi.org/10.1093/jxb/ery188)) in this field. 
 
 
 
