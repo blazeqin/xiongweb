@@ -39,7 +39,7 @@ Broad contemplated topics are listed below.
 
 - Nocturnal transpiration 
 
-- Develop new technicals of gas exchange  and hydraulics estimations
+- Develop new estimation technicals of gas exchange and hydraulics 
 
 
 
