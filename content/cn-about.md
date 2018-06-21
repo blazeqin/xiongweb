@@ -43,7 +43,7 @@ slug: "cn/about"
 
 ## **研究生指导**
 
-> 目前在[华中农业大学](www.hzau.edu.cn)指导两名研究生的学位论文研究。
+目前在[华中农业大学](www.hzau.edu.cn)指导两名研究生的学位论文研究。
 
 <img align="left" width="270" height="350" src="/img/xiaoxiao.png" style="margin: 0px 10px">
 
@@ -63,11 +63,11 @@ slug: "cn/about"
 
 <br/>
 
-> _**发表论文**_
+_**发表论文**_
 
-> **Xiaoxiao Wang**, Wenchang Wang, Jianliang Huang, Shaobing Peng & **Dongliang Xiong**. (2018) [Diffusional conductance to CO<sub>2</sub> is the key limitation to photosynthesis in salt-stressed leaves of rice (_Oryza sativa_)](https://doi.org/10.1111/ppl.12653) Physiologia Plantarum. 163, 45-58.
+**Xiaoxiao Wang**, Wenchang Wang, Jianliang Huang, Shaobing Peng & **Dongliang Xiong**. (2018) [Diffusional conductance to CO<sub>2</sub> is the key limitation to photosynthesis in salt-stressed leaves of rice (_Oryza sativa_)](https://doi.org/10.1111/ppl.12653) Physiologia Plantarum. 163, 45-58.
 
-> **Xiaoxiao Wang**<sup>#</sup>, Tingting Du<sup>#</sup>, Jianliang Huang, Shaobing Peng and **Dongliang Xiong**.  [Leaf hydraulic vulnerability triggers the decline in stomatal and mesophyll conductance during drought in rice (_Oryza sativa_)](https://doi.org/10.1093/jxb/ery188).  Journal of Experimental Botany (online) (<sup>#</sup>co-first authors)
+**Xiaoxiao Wang**<sup>#</sup>, Tingting Du<sup>#</sup>, Jianliang Huang, Shaobing Peng and **Dongliang Xiong**.  [Leaf hydraulic vulnerability triggers the decline in stomatal and mesophyll conductance during drought in rice (_Oryza sativa_)](https://doi.org/10.1093/jxb/ery188).  Journal of Experimental Botany (online) (<sup>#</sup>co-first authors)
 
 ---------
 
@@ -89,10 +89,10 @@ slug: "cn/about"
 
 <br/> 
 
-> _**发表论文**_
+_**发表论文**_
 
-> Xiaoxiao Wang<sup>#</sup>, **Tingting Du**<sup>#</sup>, Jianliang Huang, Shaobing Peng and **Dongliang Xiong**.  [Leaf hydraulic vulnerability triggers the decline in stomatal and mesophyll conductance during drought in rice (_Oryza sativa_)](https://doi.org/10.1093/jxb/ery188).  Journal of Experimental Botany (online) (<sup>#</sup>co-first authors)
+Xiaoxiao Wang<sup>#</sup>, **Tingting Du**<sup>#</sup>, Jianliang Huang, Shaobing Peng and **Dongliang Xiong**.  [Leaf hydraulic vulnerability triggers the decline in stomatal and mesophyll conductance during drought in rice (_Oryza sativa_)](https://doi.org/10.1093/jxb/ery188).  Journal of Experimental Botany (online) (<sup>#</sup>co-first authors)
 
-> **Tingting Du**, Xiaoxiao Wang, Jianliang Huang, Shaobing Peng and Dongliang Xiong.  Nocturnal leaf conductance and its responses to soil drying in rice (*Oryza sativa* L.)  Frontier in Plant Science (in review)
+**Tingting Du**, Xiaoxiao Wang, Jianliang Huang, Shaobing Peng and Dongliang Xiong.  Nocturnal leaf conductance and its responses to soil drying in rice (*Oryza sativa* L.)  Frontier in Plant Science (in review)
 
 </br></br></br>
