@@ -3,11 +3,11 @@ title: About Me
 slug: "en/about"
 ---
 
-I am Dongliang Xiong, a Postdoctoral Fellow in [Tom Buckley's lab](https://buckleylab.ucdavis.edu/), UC Davis.  Please go **[Research](https://www.dlxiong.com/en/research/)** see my current research topics.
+I am Dongliang Xiong, a Postdoctoral Fellow in [Tom Buckley's lab](https://buckleylab.ucdavis.edu/), UC Davis. Please go **[Research](https://www.dlxiong.com/en/research/)** to see my current research topics.
 
 ## <span style = "color:blue"> Contact Information </span>
 
-E-mail: dlxiong@mail.hzau.edu.cn / dlxiong@ucdavis.edu
+E-mail: <span style = "color:#04a9e0"> *dlxiong@mail.hzau.edu.cn*  </span> / *dlxiong@ucdavis.edu*
 
 Twitter: [Apricot0627](https://twitter.com/Apricot0627)
 
