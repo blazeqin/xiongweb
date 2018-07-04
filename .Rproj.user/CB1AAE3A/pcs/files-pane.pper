@@ -1,6 +1,10 @@
 {
-    "path" : "D:/Personal/My_web/xiongweb/themes/hugo-lithium/static/css",
+    "path" : "D:/Personal/My_web/xiongweb",
     "sortOrder" : [
+        {
+            "ascending" : false,
+            "columnIndex" : 3
+        },
         {
             "ascending" : true,
             "columnIndex" : 2
