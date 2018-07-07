@@ -74,4 +74,4 @@ Xiaoxiao Wang<sup>#</sup>, **Tingting Du**<sup>#</sup>, Jianliang Huang, Shaobin
 **Tingting Du**, Xiaoxiao Wang, Jianliang Huang, Shaobing Peng and Dongliang Xiong.  Nocturnal leaf conductance and its responses to soil drying in rice (*Oryza sativa* L.)  Frontier in Plant Science (in review)
 
 
-</br></br>
+</br>
