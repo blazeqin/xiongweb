@@ -61,7 +61,7 @@ h3, h4, h5, h6 {
 
 blockquote {
   margin: 1em 0;
-  padding: 0 2em;
+  padding: 0 1.2em;
   border-left: 3px solid #ddd;
   font-family:'KaiTi';
   background: #f9f9f9;
