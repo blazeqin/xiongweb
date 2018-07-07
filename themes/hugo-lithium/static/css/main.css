@@ -27,15 +27,12 @@ button, input, select, textarea, label {
 
 
 
-body {
-  line-height: 1.75;
-}
 
 h1, h2, h3, h4, h5, h6 {
   padding: 0;
   margin: 60px 0 30px;
   line-height: 1.25;
-  text-align: center;
+  text-align: left;
 }
 
 h1 {
