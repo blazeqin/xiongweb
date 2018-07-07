@@ -227,12 +227,12 @@ pre code {
 .highlight {
   border-radius: 3px;
   position: relative;
-  margin: 40px 0;
+  margin: 20px 0;
   font-size: 14px;
 }
 
 .highlight pre {
-  padding: 10px;
+  padding: 2px;
 }
 
 .archive {
