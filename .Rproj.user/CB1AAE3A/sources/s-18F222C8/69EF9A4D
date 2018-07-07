@@ -5,15 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "2785916699",
+    "hash" : "2058015459",
     "id" : "69EF9A4D",
-    "lastKnownWriteTime" : 1531001504,
-    "last_content_update" : 1531001504998,
+    "lastKnownWriteTime" : 1531001678,
+    "last_content_update" : 1531001678278,
     "path" : "D:/Personal/My_web/xiongweb/themes/hugo-lithium/static/css/main.css",
     "project_path" : "themes/hugo-lithium/static/css/main.css",
     "properties" : {
-        "cursorPosition" : "62,22",
-        "scrollLine" : "45"
+        "cursorPosition" : "21,0",
+        "scrollLine" : "8"
     },
     "relative_order" : 1,
     "source_on_save" : false,

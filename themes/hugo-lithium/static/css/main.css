@@ -15,7 +15,11 @@ body {
   position: relative;
 }
 
-
+body {
+    font-size:18px;
+    font-family:"Merriweather Sans","Trebuchet MS",Tahoma,"Lucida Grande","Lucida Sans Unicode",Verdana,sans-serif;
+    color:#323031;
+}
 
 
 button, input, select, textarea, label {
