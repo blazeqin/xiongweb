@@ -59,7 +59,8 @@ blockquote {
   margin: 1em 0;
   padding: 0 2em;
   border-left: 3px solid #ddd;
-  font-family:'KaiTi'
+  font-family:'KaiTi';
+  background: #f9f9f9;
 }
 
 
