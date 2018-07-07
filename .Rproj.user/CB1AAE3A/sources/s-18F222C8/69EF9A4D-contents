@@ -178,7 +178,7 @@ pre code {
 .article-title {
   font-size: 34px;
   color: #0412d8;
-  margin: 0;
+  margin: 0 5px;
   line-height: 1.3;
 }
 
