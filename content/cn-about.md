@@ -61,7 +61,7 @@ slug: "cn/about"
 
  研究兴趣: 作物干旱生理生态
 
-<br/>
+<br/><br/>
 
 _**发表论文**_
 
@@ -87,9 +87,9 @@ _**发表论文**_
 
   研究兴趣: 夜间蒸腾;  抗逆与效率权衡生理
 
-<br/> 
+<br/><br/> 
 
-_**发表论文**_
+**发表论文**
 
 Xiaoxiao Wang<sup>#</sup>, **Tingting Du**<sup>#</sup>, Jianliang Huang, Shaobing Peng and **Dongliang Xiong**.  [Leaf hydraulic vulnerability triggers the decline in stomatal and mesophyll conductance during drought in rice (_Oryza sativa_)](https://doi.org/10.1093/jxb/ery188).  Journal of Experimental Botany (online) (<sup>#</sup>co-first authors)
 
