@@ -31,14 +31,10 @@ Relevant Publications see Xiong _et al.,_ [2015a](https://doi.org/10.1016/j.enve
 
 Broad contemplated topics are listed below. 
 
-- Plant carbon and water economics at multiple levels.
-
-- Rice canopy (dynamic-)photosynthetic rate estimation and modeling.
-
-- Effects of domestication on crops' eco-physiology
-
-- Nocturnal transpiration 
-
+- Plant carbon and water economics at multiple levels.  
+- Rice canopy (dynamic-)photosynthetic rate estimation and modeling.   
+- Effects of domestication on crops' eco-physiology   
+- Nocturnal transpiration    
 - Develop new gas exchange and hydraulics estimation technicals
 
 
